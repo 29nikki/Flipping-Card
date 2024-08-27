@@ -158,14 +158,16 @@ h5.name{
 
 @media (max-width: 480px){
     .container{
-        width: 330px;
+        width: 320px;
     }
     section::before{
-        height: 130px;
-        width: 130px;
+        height: 140px;
+        width: 140px;
+        transform: translate(-100px,-70px);
     }
     section::after{
-        height: 130px;
-        width: 130px;
+        height: 140px;
+        width: 140px;
+        transform: translate(100px,70px);
     }
 }
