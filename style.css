@@ -158,7 +158,7 @@ h5.name{
 
 @media (max-width: 480px){
     .container{
-        width: 320px;
+        width: 300px;
     }
     section::before{
         height: 140px;
