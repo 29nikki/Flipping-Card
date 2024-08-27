@@ -163,11 +163,11 @@ h5.name{
     section::before{
         height: 140px;
         width: 140px;
-        transform: translate(-100px,-70px);
+        transform: translate(-120px,-70px);
     }
     section::after{
         height: 140px;
         width: 140px;
-        transform: translate(100px,70px);
+        transform: translate(120px,70px);
     }
 }
